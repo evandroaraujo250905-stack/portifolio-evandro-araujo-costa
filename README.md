@@ -40,7 +40,7 @@ Atualmente cursando o [1º] período de Engenharia de Software na Universidade d
 #### 🗃️ Programação de computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Aldoritmo de Auditoria de dados** | um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.  | [Ver Projeto](./auditoria de dados/conheça_o_colab (1).py)
+| **Aldoritmo de Auditoria de dados** | um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.  | [Ver Projeto](./auditoria_de_dados/conheça_o_colab (1).py)
 
  
 ---
