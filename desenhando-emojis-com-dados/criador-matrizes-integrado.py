@@ -1,3 +1,5 @@
+#Desafio 1: O Criador de Emojis (Pixels RGB)
+
 import matplotlib.pyplot as plt
  
  
